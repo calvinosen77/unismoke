@@ -1,0 +1,61 @@
+body { padding-top: 70px; }
+img { max-width:100%; }
+fieldset { margin-bottom:15px; }
+.tab-pane {
+    padding:20px;
+    padding-bottom:10px;
+    border:1px solid #ddd;
+    border-top:0px;
+    margin-bottom:15px;
+}
+.orderTotals *{
+    text-align:right !important;
+    font-weight:bold;
+    background-color:#f8f8f8;
+}
+
+.orderItems>tr>td:last-of-type {
+    text-align:right;
+    font-weight:bold;
+}
+
+.tableInput {
+    max-width:100px;
+}
+
+.file-manager{
+    width: 780px;
+}
+.file-manager-content{
+    height: 100%;
+}
+.level_up_icon{
+    background: url('../img/file_manager/level_up.svg') center;
+}
+.refresh_icon{
+    background: url('../img/file_manager/refresh.svg') center;
+}
+.upload_icon{
+    background: url('../img/file_manager/upload.svg') center;
+}
+.folder_icon{
+    background: url('../img/file_manager/folder.svg') center;
+    cursor: pointer;
+    list-style-type: none;
+}
+.trash_icon{
+    background: url('../img/file_manager/trash.svg') center;
+}
+.center-bg{
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+
+.center-bg-big-image{
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    width: 140px;
+    height: 140px;
+}

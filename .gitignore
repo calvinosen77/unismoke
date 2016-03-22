@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+application/config/database.php
+application/config/manifest_bk.php
+application/config/manifest.php
+.idea
+.idea/workspace.xml
+.DS_Store
+=======
+.idea/
+.idea/vcs.xml
+.idea/workspace.xml
+.DS_Store
+application/config/database.php
+application/config/manifest_bk.php
+application/config/manifest.php
+>>>>>>> qa01-release

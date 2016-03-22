@@ -1,0 +1,36 @@
+.file-manager{
+    width: 780px;
+}
+.file-manager-content{
+    height: 100%;
+}
+.level_up_icon{
+    background: url('../../img/file_manager/level_up.svg') center;
+}
+.refresh_icon{
+    background: url('../../img/file_manager/refresh.svg') center;
+}
+.upload_icon{
+    background: url('../../img/file_manager/upload.svg') center;
+}
+.folder_icon{
+    background: url('../../img/file_manager/folder.svg') center;
+    cursor: hand;
+    
+}
+.trash_icon{
+    background: url('../../img/file_manager/trash.svg') center;
+}
+.center-bg{
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    width: 35px;
+    height: 35px;
+}
+
+.center-bg-big-image{
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    width: 140px;
+    height: 140px;
+}

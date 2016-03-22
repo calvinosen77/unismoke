@@ -1,0 +1,29 @@
+﻿/*
+    Custom CSS
+*/
+
+.empty_review_title_top{
+    color: #666;
+    font-size: 15px;
+    padding-top: 1px;
+    font-weight: 400;
+}
+
+.empty_review_title_bottom{
+    color: #333;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.title_review_pending1{
+    color: #008a00;
+}
+
+.title_review_pending2{
+     color: #008a00;
+ }
+
+.title_review_approve{
+     color: #008a00;
+ }
